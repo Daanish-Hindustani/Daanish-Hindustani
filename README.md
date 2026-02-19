@@ -6,5 +6,8 @@
 🔗 https://linkedin.com/in/daanishhindustani  
 💻 https://github.com/Daanish-Hindustani  
 
+# Current Projects
+🤖💻✉️ [OneShotPrompts](https://github.com/Daanish-Hindustani/OneShotPrompts)
+
 
 
