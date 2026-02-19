@@ -7,7 +7,7 @@
 💻 https://github.com/Daanish-Hindustani  
 
 # Current Projects
-🤖💻✉️ [OneShotPrompts](https://github.com/Daanish-Hindustani/OneShotPrompts)
+🤖💻✉️ [OneShotPrompts](https://github.com/Daanish-Hindustani/OneShotPrompts): Build prompts to Vibe Code End to End production apps in One shot
 
 
 
