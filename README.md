@@ -1,16 +1,11 @@
 # 👋 Hi, I'm **Daanish Hindustani**
-### Software Engineer • AI/ML • Cloud • DevOps • Full-Stack
+### Software Engineer | AI/ML | Cloud | DevOps | Full-Stack
 
-# Current Projects
-✉️ [OneShotPrompts](https://github.com/Daanish-Hindustani/OneShotPrompts): Build prompts to Vibe Code End to End production apps in One shot
-👨‍💻 [LeetClaude](https://github.com/Daanish-Hindustani/LeetClaude): Leetcode while you VibeCode
+## Current Projects
+- ✉️ [OneShotPrompts](https://github.com/Daanish-Hindustani/OneShotPrompts): Build prompts to vibe-code end-to-end production apps in one shot
+- 👨‍💻 [LeetClaude](https://github.com/Daanish-Hindustani/LeetClaude): Solve LeetCode problems while vibe-coding
 
-
-# Contact Info:
+## Contact
 📧 daanishhindustani@gmail.com  
 🔗 https://linkedin.com/in/daanishhindustani  
-💻 https://github.com/Daanish-Hindustani  
-
-
-
-
+💻 https://github.com/Daanish-Hindustani
