@@ -4,6 +4,7 @@
 ## Current Projects
 - ✉️ [OneShotPrompts](https://github.com/Daanish-Hindustani/OneShotPrompts): Build prompts to Vibe Code End to End production apps in One shot.
 - 👨‍💻 [LeetClaude](https://github.com/Daanish-Hindustani/LeetClaude): LeetCode while you vibe code.
+- 💰🤖 [DistilMyData](): A platform which allows user to sell their AI conversations.
 - 🐜 [AntColony](): A Light Weight Local LLM compatible cli that is based on how Ant colonies work.
 
 ## Contact
