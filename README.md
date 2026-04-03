@@ -9,6 +9,9 @@
 - 👨‍💻 [LeetClaude](https://github.com/Daanish-Hindustani/LeetClaude): LeetCode while you vibe code.(1100+ Users). [Link to Extension](https://open-vsx.org/extension/LeetClaude/leetclaude)
 - ☎️ [Vibe Socket](): Get agents on the same page in real time.(Idea Phases)
 
+- Ideas:
+1. Issues: International returns are expensive, a product which lets buinesses instead pay users to store returned items.
+2. Product: A telehealth company for peptides.
 ## Contact
 📧 daanishhindustani@gmail.com  
 🔗 https://linkedin.com/in/daanishhindustani  
