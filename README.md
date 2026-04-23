@@ -2,6 +2,7 @@
 ### Software Engineer | AI/ML | Cloud | DevOps | Full-Stack
 
 ## Current Projects
+0. 🌵 [Cacty](): A better siri, On device AI for computer and mobile use 100% local.
 1. 🍗 [ProteinClaw](https://github.com/Daanish-Hindustani/ProteinClaw): ClawBot for protein deisgn
 2. 🧬 [DeNovoAI](https://github.com/Daanish-Hindustani/DeNovoAI): Claude Code for End to End Protein Design.
 3. ✉️ [OneShotPrompts](https://github.com/Daanish-Hindustani/OneShotPrompts): Build prompts to Vibe Code End to End production apps in One shot.
