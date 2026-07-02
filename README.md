@@ -2,7 +2,7 @@
 ### Software Engineer | AI/ML | Cloud | DevOps | Full-Stack
 
 ## Current Projects
-1. ☕️ [Slacker](): A local-first macOS app that watches selected Slack channels for missed follow-ups and stale open loops, then surfaces only the threads that need your attention.
+1. ☕️ [Slacker](https://github.com/slacker-ai/Slacker): A local-first macOS app that watches selected Slack channels for missed follow-ups and stale open loops, then surfaces only the threads that need your attention.
 2. 🌵 [Cacty](https://github.com/Daanish-Hindustani/Cacty.git): A better siri, On device AI for computer and mobile use 100% local.
 3. 🍗 [ProteinClaw](https://github.com/Daanish-Hindustani/ProteinClaw): ClawBot for protein deisgn
 4. ✉️ [OneShotPrompts](https://github.com/Daanish-Hindustani/OneShotPrompts): Build prompts to Vibe Code End to End production apps in One shot.
